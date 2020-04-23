@@ -1,0 +1,22 @@
+body{
+	background-image: url(pc.jpg);
+	font-family: comic sans-serif;
+	color: white;
+	font-weight: bold;
+}
+
+a:hover{
+	color: blue;
+	background: yellow;
+}
+a:visited{
+	color: hotpink;
+}
+a:active{
+	font-size: 200%;
+	border: 5px solid blue;
+}
+h2{
+	text-align: center;
+	background-color: hotpink;
+}
